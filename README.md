@@ -68,26 +68,26 @@
   <!-- <a href="https://thao2410.com" target="blank">
     <img width="90" height="90" src="images/logo-thao2410-transparent-bg-192x192.png" alt="thao2410-blog" />
   </a> -->
-  <a href="https://www.facebook.com/profile.php?id=100024313742097" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100009093637365" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thao2410-facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCenpTDzdH92UquQ22eGgVXw" target="blank">
+  <a href="https://www.youtube.com/channel/UCbfHkJyLs0H4EQBMJb3jXZw" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thao2410-youtube" />
   </a>
-  <a href="https://www.tiktok.com/@zo_nime" target="blank">
-    <img src="https://img.icons8.com/?size=1x&id=-x2V8Q63DerT&format=png" alt="thao2410-linkedin" />
+  <a href="https://www.tiktok.com/@thaoit2410" target="blank">
+    <img src="https://img.icons8.com/?size=1x&id=-x2V8Q63DerT&format=png" alt="thao2410-tiktok" />
   </a>
-  <a href="https://www.instagram.com/cgthien/" target="blank">
+  <a href="https://www.instagram.com/lhthao.tit/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thao2410-instagram" />
   </a>
-  <a href="mailto:lethien3072003@gmail.com" target="top">
+  <a href="mailto:lehoangthao2410@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thao2410-email" />
   </a>
 </div>
 
 <br>
 
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<!-- <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/63opfUkPq6k" target="_blank">
@@ -105,7 +105,7 @@
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-thao2410-scaled.jpeg" width="1200" alt="thao2410-official" />
-</a>
+</a> -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>

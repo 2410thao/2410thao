@@ -79,7 +79,7 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-         Say hi!<br/>Tôi là Hoàng Thảo, rất vui được gặp bạn.
+         Say hi!<br/>Tôi là Hoàng Thảo <br/> Rất vui được gặp bạn.
         </div>
         <div class="skills">
           <div class="skills_icon">
