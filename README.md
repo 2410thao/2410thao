@@ -87,7 +87,7 @@
 
 <br>
 
-<!-- <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/63opfUkPq6k" target="_blank">
@@ -105,7 +105,7 @@
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-thao2410-scaled.jpeg" width="1200" alt="thao2410-official" />
-</a> -->
+</a>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
